@@ -13,6 +13,7 @@
 		E80AAF762875BBF600DF5B68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E80AAF742875BBF600DF5B68 /* Main.storyboard */; };
 		E80AAF782875BBF900DF5B68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E80AAF772875BBF900DF5B68 /* Assets.xcassets */; };
 		E80AAF7B2875BBF900DF5B68 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E80AAF792875BBF900DF5B68 /* LaunchScreen.storyboard */; };
+		E80AAF832875BC3A00DF5B68 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80AAF822875BC3A00DF5B68 /* PageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E80AAF772875BBF900DF5B68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E80AAF7A2875BBF900DF5B68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E80AAF7C2875BBF900DF5B68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E80AAF822875BC3A00DF5B68 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				E80AAF6E2875BBF600DF5B68 /* AppDelegate.swift */,
 				E80AAF702875BBF600DF5B68 /* SceneDelegate.swift */,
+				E80AAF822875BC3A00DF5B68 /* PageViewController.swift */,
 				E80AAF722875BBF600DF5B68 /* ViewController.swift */,
 				E80AAF742875BBF600DF5B68 /* Main.storyboard */,
 				E80AAF772875BBF900DF5B68 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				E80AAF732875BBF600DF5B68 /* ViewController.swift in Sources */,
 				E80AAF6F2875BBF600DF5B68 /* AppDelegate.swift in Sources */,
 				E80AAF712875BBF600DF5B68 /* SceneDelegate.swift in Sources */,
+				E80AAF832875BC3A00DF5B68 /* PageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
